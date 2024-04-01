@@ -1,2 +1,0 @@
-# AutoScaling
-AutoScaling
